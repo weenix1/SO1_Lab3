@@ -1,0 +1,121 @@
+ The angle -10.00000000 ( radiants ) corresponds to   2.56636000
+ The angle  -8.00000000 ( radiants ) corresponds to  -1.71682000
+ The angle  -6.00000000 ( radiants ) corresponds to   0.28318000
+ The angle  -4.00000000 ( radiants ) corresponds to   2.28318000
+ The angle  -2.00000000 ( radiants ) corresponds to  -2.00000000
+ The angle   0.00000000 ( radiants ) corresponds to   0.00000000
+ The angle   2.00000000 ( radiants ) corresponds to   2.00000000
+ The angle   4.00000000 ( radiants ) corresponds to  -2.28318000
+ The angle   6.00000000 ( radiants ) corresponds to  -0.28318000
+ The angle   8.00000000 ( radiants ) corresponds to   1.71682000
+ The angle  10.00000000 ( radiants ) corresponds to  -2.56636000
+
+sinus(-3.141590) = -0.000003
+sinus(-2.827431) = -0.309019
+sinus(-2.513272) = -0.587787
+sinus(-2.199113) = -0.809018
+sinus(-1.884954) = -0.951057
+sinus(-1.570795) = -1.000000
+sinus(-1.256636) = -0.951056
+sinus(-0.942477) = -0.809017
+sinus(-0.628318) = -0.587785
+sinus(-0.314159) = -0.309017
+sinus(0.000000) = 0.000000
+sinus(0.314159) = 0.309017
+sinus(0.628318) = 0.587785
+sinus(0.942477) = 0.809017
+sinus(1.256636) = 0.951056
+sinus(1.570795) = 1.000000
+sinus(1.884954) = 0.951057
+sinus(2.199113) = 0.809018
+sinus(2.513272) = 0.587787
+sinus(2.827431) = 0.309019
+sinus(3.141590) = -0.000003
+Please select function to plot (keys a..z, .=quit)
+x=-3.142 *
+x=-2.985 *
+x=-2.827  *
+x=-2.670    *
+x=-2.513       *
+x=-2.356           *
+x=-2.199               *
+x=-2.042                    *
+x=-1.885                         *
+x=-1.728                              *
+x=-1.571                                    *
+x=-1.414                                         *
+x=-1.257                                              *
+x=-1.100                                                   *
+x=-0.942                                                        *
+x=-0.785                                                            *
+x=-0.628                                                                *
+x=-0.471                                                                   *
+x=-0.314                                                                     *
+x=-0.157                                                                      *
+x= 0.000                                                                       *
+x= 0.157                                                                      *
+x= 0.314                                                                     *
+x= 0.471                                                                   *
+x= 0.628                                                                *
+x= 0.785                                                            *
+x= 0.942                                                        *
+x= 1.100                                                   *
+x= 1.257                                              *
+x= 1.414                                         *
+x= 1.571                                    *
+x= 1.728                              *
+x= 1.885                         *
+x= 2.042                    *
+x= 2.199               *
+x= 2.356           *
+x= 2.513       *
+x= 2.670    *
+x= 2.827  *
+x= 2.985 *
+x= 3.142 *
+Please select function to plot (keys a..z, .=quit)
+x=-3.142 *
+x=-2.985 *
+x=-2.827 *
+x=-2.670 *
+x=-2.513 *
+x=-2.356 *
+x=-2.199 *
+x=-2.042 *
+x=-1.885 *
+x=-1.728 *
+x=-1.571 *
+x=-1.414 *
+x=-1.257 *
+x=-1.100 *
+x=-0.942 *
+x=-0.785 *
+x=-0.628 *
+x=-0.471 *
+x=-0.314 *
+x=-0.157 *
+x= 0.000 *
+x= 0.157 *
+x= 0.314 *
+x= 0.471 *
+x= 0.628 *
+x= 0.785 *
+x= 0.942 *
+x= 1.100 *
+x= 1.257 *
+x= 1.414 *
+x= 1.571 *
+x= 1.728 *
+x= 1.885 *
+x= 2.042 *
+x= 2.199 *
+x= 2.356 *
+x= 2.513 *
+x= 2.670 *
+x= 2.827 *
+x= 2.985 *
+x= 3.142 *
+Zero_point of Cosine :    1.5707963333
+Extrem: 2.000000
+C:\Users\pc\source\repos\SO1_Lab_3\Debug\Angle.exe (process 2576) exited with code 0.
+Press any key to close this window . . .
